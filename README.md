@@ -24,3 +24,6 @@ So I will make a few changes to meet the specifications.
 I will make one commit message in each branch to README file only, 
 then merge the branch again.
 The first one is this update note and I will commit it to master branch.
+
+The second one will be committed in documentation branch. 
+
