@@ -10,8 +10,8 @@ BikeShare project
 Allow user to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+BikeShare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I would like to give thanks to Udacity instructors and mentors for guiding me through this project.
 
