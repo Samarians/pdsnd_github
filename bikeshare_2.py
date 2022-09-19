@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 """
-Read data and create columns Month and Day of Week for filtering data.
+Read data and create columns Month, Day of Week and Hour for filtering data.
 """
 chicago_data = pd.read_csv("D:/Udacity/Python for Data Science/Bikeshare/chicago.csv")
 newyork_data = pd.read_csv("D:/Udacity/Python for Data Science/Bikeshare/new_york_city.csv")
