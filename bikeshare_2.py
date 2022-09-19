@@ -87,7 +87,7 @@ def get_filters():
             day = days[7]
             break
         else:
-            print("Invalid input. Please try again.")
+            print("Invalid day. Please try again.")
 
     print('-'*40)
     return city, month, day
