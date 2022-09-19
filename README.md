@@ -17,12 +17,4 @@ BikeShare.py
 I would like to give thanks to Udacity instructors and mentors for guiding me through this project.
 
 ### Update Note
-Dear my next mentor!
-I have submitted project and got feedback that my commit message style 
-is not followed Udacity guide completely. 
-So I will make a few changes to meet the specifications. 
-I will make one commit message in each branch to README file only, 
-then merge the branch again.
-The first one is this update note and I will commit it to master branch.
-
-The second one will be committed in documentation branch. 
+The second one will be committed in documentation branch.
