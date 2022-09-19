@@ -87,7 +87,7 @@ def get_filters():
             day = days[7]
             break
         else:
-            print("Invalid input. Please try again.")
+            print("Invalid day. Please try again.")
 
     print('-'*40)
     return city, month, day
@@ -229,7 +229,7 @@ def main():
         user_stats(df)
         show_raw_data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input("\nWould you like to restart? Enter 'yes' or 'no'.\n")
         if restart.lower() != 'yes':
             break
 
